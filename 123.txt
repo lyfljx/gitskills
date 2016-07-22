@@ -1,10 +1,13 @@
 first text
 
-second text
+third people  first alter
 
 
 
 third  text
 
 
+<<<<<<< HEAD
 second people first alter
+=======
+>>>>>>> deb
